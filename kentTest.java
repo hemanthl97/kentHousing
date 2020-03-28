@@ -1,5 +1,3 @@
-
-package codevita;
 public class kentTest
 {
 	public static void main(String[] args) {
